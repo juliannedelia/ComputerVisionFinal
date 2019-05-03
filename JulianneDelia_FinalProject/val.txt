@@ -1,0 +1,4 @@
+/Users/juliannedelia/Desktop/FinalProject/finetune_alexnet_with_tensorflow/training/dog8.jpg 1
+/Users/juliannedelia/Desktop/FinalProject/finetune_alexnet_with_tensorflow/training/dog9.jpg 1
+/Users/juliannedelia/Desktop/FinalProject/finetune_alexnet_with_tensorflow/training/food18.jpg 2
+/Users/juliannedelia/Desktop/FinalProject/finetune_alexnet_with_tensorflow/training/food19.jpg 2
